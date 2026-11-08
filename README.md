@@ -23,7 +23,7 @@ Copy `.env.example` to `.env` and set your MongoDB connection details. Never com
 - `main.py` — original project notebook or application entry point.
 - `requirements.txt` — Python dependencies.
 - `.gitignore` — excludes local environments, secrets, datasets, and model artifacts.
-- `docs/` and `screenshots/` — spaces for project documentation and genuine screenshots.
+- `screenshots/` — spaces for project documentation and genuine screenshots.
 
 ## Setup
 
