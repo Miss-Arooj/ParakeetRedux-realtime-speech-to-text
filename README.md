@@ -21,9 +21,10 @@ Copy `.env.example` to `.env` and set your MongoDB connection details. Never com
 ## Repository Contents
 
 - `main.py` — application entry point containing the backend logic and FastAPI application.
+- `ui.py` - browser dashboard interface and user-facing UI.
 - `requirements.txt` — Python dependencies.
 - `.gitignore` — excludes local environments, secrets, datasets, and model artifacts.
-- `screenshots/` — screenshots for project documentation.
+- `Demo-Videos/` — videos for speech-to-text & vocabulary testing.
 
 ## Setup
 
